@@ -17,3 +17,7 @@ Adding link to URL:
 
 [inline style link to github profile](https://github.com/LeanneB2013/Test.git)
 
+### Add link to image hosted on Github?
+
+[Image](Screenshot.png)
+
